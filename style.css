@@ -1,0 +1,45 @@
+body {
+    background-color: #fff;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: #006400;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+header h1 {
+    font-size: 4rem;
+    color: #ffe2ff;
+}
+
+nav {
+    padding: 8px 40px;
+    color: #ffe2ff;
+    background-color: #2e8b57;
+    font-size: 1.3rem;
+}
+
+#contents {
+    padding: 40px;
+    height: 400px;
+    background-color: #fff;
+    color: #ffe2ff;
+}
+
+footer {
+    border-color: #481380;
+    padding: 40px;
+    height: 40px;
+    color: #00909e;
+}
+
+/* 481380
+7f78d2
+efb1ff
+ffe2ff */
